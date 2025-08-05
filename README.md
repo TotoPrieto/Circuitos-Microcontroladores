@@ -12,17 +12,17 @@ El objetivo principal de la materia es brindar los conocimientos fundamentales s
 
 En esta sección se irán subiendo las consignas correspondientes a las prácticas, trabajos o evaluaciones. Los archivos están en formato PDF para su fácil descarga y consulta.
 
-### Consignas disponibles
-##TP1
+### Consignas
+TP1
 -[TP1-Consigna.pdf](https://github.com/user-attachments/files/21588534/TP1-Consigna.pdf)
 
-##TP2
+TP2
 -[TP2-Consigna.pdf](https://github.com/user-attachments/files/21588535/TP2-Consigna.pdf)
 
-##TP3
+TP3
 -[TP3-Consigna.pdf](https://github.com/user-attachments/files/21588539/TP3-Consigna.pdf)
 
-##TP4
+TP4
 -[TP4-Consigna.pdf](https://github.com/user-attachments/files/21588540/TP4-Consigna.pdf)
 
 
